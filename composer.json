@@ -12,7 +12,7 @@
         "magento-hackathon/magento-composer-installer": "*"
     },
     "replace": {
-        "joshdifabio/magento1-composer-bridge":"dev-master",
+        "joshdifabio/magento1-composer-bridge":"*",
         "ampersand/mage-autoloader": "*"
     },
     "conflict": {
